@@ -6,7 +6,7 @@ import 'package:flutter_tdd_q/main/app_environment.dart';
 import 'package:flutter_tdd_q/main/injection.dart';
 import 'package:flutter_tdd_q/main/observers.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-
+//teste
 void main() => mainCommon(AppEnvironment.PROD);
 
 Future<void> mainCommon(AppEnvironment environment) async {
